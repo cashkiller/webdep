@@ -1,10 +1,11 @@
 
-##网页静态资源
+网页静态资源共享加速
+
 本项目由[@VPS啦](https://vps.la)维护
 
 本项目由[@Github](https://github.com)强力驱动
 
-##[@VPS啦](https://vps.la)
+[@VPS啦](https://vps.la)
 
 * /wp-content
     *  /themes
@@ -14,5 +15,6 @@
             *  /images
                 *  logo.png
 
-##[@IMGUrl.me](https://imgurl.me)
-##[@CRXDown.com](https://CRXDown.com)
+[@IMGUrl.me](https://imgurl.me)
+
+[@CRXDown.com](https://CRXDown.com)
