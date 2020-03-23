@@ -21,4 +21,6 @@
 
 使用方法：
 
-(https://cdn.jsdelivr.net/gh/cashkiller/webdep/vps.la/wp-content/themes/xiu_v7.3/style.css)
+vps.la/wp-content/themes/xiu_v7.3/style.css的绝对路径如下：
+
+[@https://cdn.jsdelivr.net/gh/cashkiller/webdep/vps.la/wp-content/themes/xiu_v7.3/style.css](https://cdn.jsdelivr.net/gh/cashkiller/webdep/vps.la/wp-content/themes/xiu_v7.3/style.css)
