@@ -18,3 +18,7 @@
 [@IMGUrl.me](https://imgurl.me)
 
 [@CRXDown.com](https://CRXDown.com)
+
+使用方法：
+
+(https://cdn.jsdelivr.net/gh/cashkiller/webdep/vps.la/wp-content/themes/xiu_v7.3/style.css)
