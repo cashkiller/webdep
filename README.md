@@ -24,3 +24,12 @@
 vps.la/wp-content/themes/xiu_v7.3/style.css的绝对路径如下：
 
 [https://cdn.jsdelivr.net/gh/cashkiller/webdep/vps.la/wp-content/themes/xiu_v7.3/style.css](https://cdn.jsdelivr.net/gh/cashkiller/webdep/vps.la/wp-content/themes/xiu_v7.3/style.css)
+
+
+https://vps.la/wp-content/themes/xiu_v7.3/images/logo_mobile.png
+https://vps.la/wp-content/themes/xiu_v7.3/images/logo.png
+https://vps.la/wp-content/themes/xiu_v7.3/images/qrcode.png
+https://cdn.jsdelivr.net/gh/cashkiller/webdep/vps.la/wp-content/themes/xiu_v7.3/images/qrcode.png
+
+
+git add . && git commit -m . && git push
